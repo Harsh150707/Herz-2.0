@@ -1,0 +1,7 @@
+# Herz 2.0 needs no third-party packages.
+# server.py uses only the Python standard library:
+# json, math, os, sys, threading, collections, http.server, urllib.parse
+#
+# Required Python version: 3.8 or newer
+#
+# Nothing to install. Run with:  python server.py
